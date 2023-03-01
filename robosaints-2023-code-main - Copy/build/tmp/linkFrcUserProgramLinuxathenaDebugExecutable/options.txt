@@ -1,0 +1,55 @@
+-o
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\exe\\frcUserProgram\\linuxathena\\debug\\frcUserProgram"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\28tp0pqaw2yp21hme9pw6ccg5\\TelescopeElevatorPreset.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\2nuvj37o01guyyu41eoyvj3mb\\AutonomousCommand.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\2y0j7bakndhfiijoln8ggh3yt\\OI.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\30forwd9vbvattjp75li6oxdt\\TelescopeRetract.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\3bg5a77l7vd4edmrxq5jco6ri\\Robot.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\6bsknf128q7l1rc21lne8jaon\\GrabberGrab.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\6wx7uglob39i9xlnm2zjbml4\\PneumaticsModular.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\78qrqkgyx3f5dbbol5kpydqma\\ElevatorUp.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\7onxgcpasggg6n1r2u4p9am53\\Drive.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\7u134rydhl9httkybxaj9ree9\\DrivetrainModular.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\94efqfhibnrkgjfz209wsy55s\\TelescopeArm.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\9nudixf394x2sg3wsdp3a5zwo\\TelescopeNope.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\afi9is8m9jz1d0yser882z0h0\\TimedBoilerplate.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\amgga4ya743zfy9pxhts8ofd8\\ElevatorDown.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\c93uesqgrrfv5loyc0erzzifh\\TelescopeExtend.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\cacmgmnx80ixhtyvgm7pbumhp\\Grabber.o"
+"C:\\Users\\1307Robotics\\Downloads\\robosaints-2023-code-main\\robosaints-2023-code-main - Copy\\build\\objs\\frcUserProgram\\linuxathena\\debug\\frcUserProgramCpp\\esafwn6bxe6r8ammt45i8qdwa\\Elevator.o"
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\f49204dc43b5d6dae3d5492abd9b8b47\\transformed\\wpilibNewCommands-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpilibNewCommandsd.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\ca0ab56e15d3c4d3e38b9bbdcb1fcb3a\\transformed\\REVLib-cpp-2023.1.3-linuxathenastaticdebug\\linux\\athena\\static\\libREVLib.a
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\a9a633ebcab3c3425e4c4b2f6dd59076\\transformed\\REVLib-driver-2023.1.3-linuxathenastaticdebug\\linux\\athena\\static\\libREVLibDriver.a
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\444fc46e107e5f8cc7947d0077f82c4f\\transformed\\wpilibc-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpilibcd.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\f399b2f91798a22f9fe029b3d0b6749a\\transformed\\ntcore-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libntcored.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\2db9eb2bc68e561d94678f4684fcf5a9\\transformed\\hal-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpiHald.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\713604a4dd73c24892f0525ee28c2c90\\transformed\\wpimath-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpimathd.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\9f8891aa1079a44e2f166262de6d7ade\\transformed\\wpinet-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpinetd.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\014cd2f0f6299e289c236af1fcd3df75\\transformed\\wpiutil-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpiutild.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\c4a55cb0c5db3f91fd560a22d2042b40\\transformed\\netcomm-2023.3.0-linuxathenadebug\\linux\\athena\\shared\\libFRC_NetworkCommunication.so.23.0.0
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\ba9cfa60db00f77ceedb905dd9802ac1\\transformed\\chipobject-2023.3.0-linuxathenadebug\\linux\\athena\\shared\\libRoboRIO_FRC_ChipObject.so.23.0.0
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\300ad08502218b9e1540f30a3aa575d5\\transformed\\visa-2023.3.0-linuxathenadebug\\linux\\athena\\shared\\libvisa.so.22.5.0
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\8778eba4257b3930e4a10bde24ce5d83\\transformed\\runtime-2023.3.0-linuxathenadebug\\linux\\athena\\shared\\libembcanshim.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\8778eba4257b3930e4a10bde24ce5d83\\transformed\\runtime-2023.3.0-linuxathenadebug\\linux\\athena\\shared\\libfpgalvshim.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\195db663c94a532890ee1c213880e31c\\transformed\\cameraserver-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libcameraserverd.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\2229e97b142e7d0b6a3b78977b3df492\\transformed\\cscore-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libcscored.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\381a1ecd6e3845c4a9bb3ccb80e510ca\\transformed\\apriltag-cpp-2023.2.1-linuxathenadebug\\linux\\athena\\shared\\libapriltagd.so
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_arucod.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_calib3dd.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_cored.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_features2dd.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_flannd.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_gapid.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_highguid.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_imgcodecsd.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_imgprocd.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_mld.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_objdetectd.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_photod.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_stitchingd.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_videod.so.4.6
+C:\\Users\\1307Robotics\\.gradle\\caches\\transforms-3\\40c1fe34dd202b86b67f2aaee647acf4\\transformed\\opencv-cpp-4.6.0-4-linuxathenadebug\\linux\\athena\\shared\\libopencv_videoiod.so.4.6
+-rdynamic
+-pthread
+-ldl
+-latomic

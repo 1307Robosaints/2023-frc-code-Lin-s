@@ -1,0 +1,29 @@
+See file:///C:/Users/1307Robotics/Downloads/robosaints-2023-code-main/robosaints-2023-code-main%20-%20Copy/build/tmp/compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp.
+compiling Grabber.cpp failed.
+C:\Users\1307Robotics\Downloads\robosaints-2023-code-main\robosaints-2023-code-main - Copy\src\main\cpp\subsystems\Grabber.cpp:16:10: fatal error: Grabber.h: No such file or directory
+   16 | #include "Grabber.h"
+      |          ^~~~~~~~~~~
+compilation terminated.
+
+compiling PneumaticsModular.cpp failed.
+C:\Users\1307Robotics\Downloads\robosaints-2023-code-main\robosaints-2023-code-main - Copy\src\main\cpp\subsystems\PneumaticsModular.cpp:18:29: error: no matching function for call to 'frc::Solenoid::Solenoid(<brace-enclosed initializer list>)'
+   18 | frc::Solenoid Solenoid2{1, 0};
+      |                             ^
+In file included from C:\Users\1307Robotics\Downloads\robosaints-2023-code-main\robosaints-2023-code-main - Copy\src\main\include/subsystems/PneumaticsModular.h:17,
+                 from C:\Users\1307Robotics\Downloads\robosaints-2023-code-main\robosaints-2023-code-main - Copy\src\main\cpp\subsystems\PneumaticsModular.cpp:14:
+C:\Users\1307Robotics\.gradle\caches\transforms-3\7f0bd2e0c7e721653d8cadbe29924bdb\transformed\wpilibc-cpp-2023.2.1-headers/frc/Solenoid.h:47:3: note: candidate: 'frc::Solenoid::Solenoid(frc::Solenoid&&)'
+   47 |   Solenoid(Solenoid&&) = default;
+      |   ^~~~~~~~
+C:\Users\1307Robotics\.gradle\caches\transforms-3\7f0bd2e0c7e721653d8cadbe29924bdb\transformed\wpilibc-cpp-2023.2.1-headers/frc/Solenoid.h:47:3: note:   candidate expects 1 argument, 2 provided
+C:\Users\1307Robotics\.gradle\caches\transforms-3\7f0bd2e0c7e721653d8cadbe29924bdb\transformed\wpilibc-cpp-2023.2.1-headers/frc/Solenoid.h:43:3: note: candidate: 'frc::Solenoid::Solenoid(frc::PneumaticsModuleType, int)'
+   43 |   Solenoid(PneumaticsModuleType moduleType, int channel);
+      |   ^~~~~~~~
+C:\Users\1307Robotics\.gradle\caches\transforms-3\7f0bd2e0c7e721653d8cadbe29924bdb\transformed\wpilibc-cpp-2023.2.1-headers/frc/Solenoid.h:43:33: note:   no known conversion for argument 1 from 'int' to 'frc::PneumaticsModuleType'
+   43 |   Solenoid(PneumaticsModuleType moduleType, int channel);
+      |            ~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~
+C:\Users\1307Robotics\.gradle\caches\transforms-3\7f0bd2e0c7e721653d8cadbe29924bdb\transformed\wpilibc-cpp-2023.2.1-headers/frc/Solenoid.h:35:3: note: candidate: 'frc::Solenoid::Solenoid(int, frc::PneumaticsModuleType, int)'
+   35 |   Solenoid(int module, PneumaticsModuleType moduleType, int channel);
+      |   ^~~~~~~~
+C:\Users\1307Robotics\.gradle\caches\transforms-3\7f0bd2e0c7e721653d8cadbe29924bdb\transformed\wpilibc-cpp-2023.2.1-headers/frc/Solenoid.h:35:3: note:   candidate expects 3 arguments, 2 provided
+
+Finished compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/1307Robotics/Downloads/robosaints-2023-code-main/robosaints-2023-code-main%20-%20Copy/build/tmp/compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp/output.txt.
